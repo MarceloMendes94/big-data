@@ -11,7 +11,7 @@ A base de dados selecionada retrata a ocorrência de acidenetes na cidade de nov
 ![FIC](https://github.com/MarceloMendes94/big-data/blob/master/modelos/Fast%20Immersion%20Canvas.jpg)
 
 ## Fast modelling Canvas 
-![FMC](https://github.com/MarceloMendes94/big-data/blob/master/modelos/Fast%20modelling%20Canvas%20Acidentes%20NYC.jpg)
+![FMC](https://github.com/MarceloMendes94/big-data/blob/master/modelos/canvas%202%20Acidentes%20NYC.jpg)
 
 ## 5W2H
 
