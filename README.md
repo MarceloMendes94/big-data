@@ -13,7 +13,34 @@ A base de dados selecionada retrata a ocorrência de acidenetes na cidade de nov
 ## Fast modelling Canvas 
 ![FMC](https://github.com/MarceloMendes94/big-data/blob/master/modelos/canvas%202%20Acidentes%20NYC.jpg)
 
+
+## Fast ELT Acidentes NYC
+<table>
+  <tr>
+    <td colspan="6" align="center" >Fonte</td>
+    <td colspan="5" align="center" >Alvo</td>
+  </tr>
+  <tr>
+    <td >Sistema fonte</td>
+    <td >Tabela fonte</td>
+    <td >Nome(s) da(s) coluna(s) fonte</td>
+    <td >Descrição</td>
+    <td >Tipo de dado</td>
+    <td >Regras ETL</td>
+    <td >Tabela alvo</td>
+    <td >Nome da coluna</td>
+    <td >Descrição</td>
+    <td >Tipo de Dado</td>
+    <td >Exemplo de resultado</td>    
+  </tr>
+  
+</table>
+
+<br><br><br><br><br>
+
+
 ## 5W2H
+
 
 ### WHEN QUANDO
  |DATE|TIME|
