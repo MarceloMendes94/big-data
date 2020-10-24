@@ -10,10 +10,10 @@ A base de dados selecionada retrata a ocorrência de acidenetes na cidade de nov
 <br>
 # Modelagem do DW
 ## Fast Immersion Canvas
-![FIC]()
+![FIC](./modelos/Fast_Immersion_Canvas.jpg)
 
 ## Fast modelling Canvas 
-![FMC]()
+![FMC](./modelos/Fast_modelling_Canvas_Acidentes_NYC.jpg)
 
 ## Fast ELT Acidentes NYC
 [pdf]()
